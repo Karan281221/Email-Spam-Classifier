@@ -3,3 +3,5 @@ pandas
 scikit-learn
 numpy
 nltk
+nltk.download('punkt_tab')
+nltk.download('stopwords')
